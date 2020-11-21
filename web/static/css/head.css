@@ -1,0 +1,74 @@
+
+.scyd{
+    width:100px;
+}
+.dl{
+    width:58px;
+}
+.gwc{
+    width:73px;
+}
+
+.bt_lay1{
+    background-color: #000000;
+    font-size:12px;
+    color:#fff;
+    height: 30px;
+    line-height: 30px;
+}
+
+
+#lay1 {
+    width: 1200px;
+    height: 50px;
+}
+
+#lay1 .left1 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+#lay1 .left1 img {
+    width: 40px;
+    height: 40px;
+}
+
+#lay1 .left2 {
+    width: 30px;
+    height: 40px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+#lay1 .left2 img {
+    width: 30px;
+    height: 40px;
+}
+
+#lay1 .right {
+    width: 300px;
+    height: 50px;
+    float: right;
+}
+
+#lay1 .right div {
+    float: left;
+    height: 21px;
+    margin-top: 15px;
+}
+
+#lay1 .right .ip {
+    width: 176px;
+}
+
+#lay1 .right .pic {
+    width: 50px;
+}
+
+#lay1 .right .pic img {
+    height: 21px;
+}

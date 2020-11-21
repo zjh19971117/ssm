@@ -1,0 +1,134 @@
+#outer{
+    width: 1200px;
+    height: 800px;
+    background-color: red;
+    /*border: black solid 5px;*/
+
+}
+#outer .one{
+    width: 1200px;
+    height: 20px;
+    background-color: black;
+}
+#outer .one .one1{
+    width: 60px;
+    height: 20px;
+    font-size: 12px;
+    color: aliceblue;
+    margin-left: 160px;
+    float:left;
+}
+#outer .one .one2{
+    width: 90px;
+    height: 20px;
+    font-size: 12px;
+    color: aliceblue;
+    margin-left: -8px;
+    float: left;
+}
+#outer .one .one3{
+    width: 90px;
+    height: 20px;
+    font-size: 12px;
+    color: aliceblue;
+    margin-left: -3px;
+    float: left;
+}
+#outer .one .one4{
+    width: 90px;
+    height: 20px;
+    font-size: 12px;
+    color: aliceblue;
+    margin-left: 430px;
+    float: left;
+}
+#outer .one .one5{
+    width: 90px;
+    height: 20px;
+    font-size: 12px;
+    color: aliceblue;
+    margin-left: 846px;
+    float: left;
+    margin-top: -20px;
+}
+#outer .one .one6{
+    width: 90px;
+    height: 20px;
+    font-size: 12px;
+    color: aliceblue;
+    margin-left: 873px;
+    float: left;
+    margin-top: -20px;
+}
+#outer .one .one7{
+    width: 90px;
+    height: 20px;
+    font-size: 12px;
+    color: aliceblue;
+    margin-left: 950px;
+    float: left;
+    margin-top: -20px;
+    background-color: red;
+    text-align: center;
+}
+#outer .two{
+    width: 1200px;
+    height: 40px;
+    background-color: chartreuse;
+}
+#outer .two .two1 img{
+    height: 40px;
+    width: 40px;
+    margin-left: 165px;
+}
+#outer .two .two2 input{
+    height: 20px;
+    width: 200px;
+    margin-left: 800px;
+    float: left;
+    margin-top: -30px;
+}
+#outer .two .two3 img{
+    height: 24px;
+    width: 38px;
+    margin-top: -32px;
+    margin-left: 1001px;
+}
+#outer .there{
+    width: 1200px;
+    height: 20px;
+    background-color: antiquewhite;
+}
+#outer .there1{
+    width: 54px;
+    height: 20px;
+    font-size: 12px;
+    color: darkcyan;
+}
+#outer .there2{
+    width: 54px;
+    height: 20px;
+    font-size: 12px;
+    color: darkcyan;
+    margin-left: 54px;
+    margin-top: -20px
+}
+#outer .there3{
+    width: 54px;
+    height: 20px;
+    font-size: 12px;
+    color: darkcyan;
+    margin-left: 84px;
+    margin-top: -20px
+}
+#outer .four{
+    width: 1200px;
+    height: 680px;
+    background-color: blueviolet;
+}
+#outer .five{
+    width: 1200px;
+    height: 40px;
+    background-color: blue;
+}
+

@@ -1,0 +1,14 @@
+#outer{
+    width:100px;
+    border:solid 5px #f00;
+}
+
+.item1{
+    width:100px;
+    height: 20px;
+    background-color: #cccccc;
+    overflow: hidden;/*溢出属性*/
+}
+.item1:hover{
+    height: 82px;
+}
